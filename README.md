@@ -14,7 +14,7 @@ A full-stack restaurant table reservation application built using React, Supabas
 
 ## Live Demo
 
-Add your Vercel URL here.
+https://restaurant-table-reservation-medzr4723.vercel.app
 
 ## GitHub Repository
 
